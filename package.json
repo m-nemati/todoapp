@@ -2,7 +2,7 @@
   "name": "todo",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://m-nemati.github.io/todo-app",
+  "homepage":"https://m-nemati.github.io/todoapp",
   "dependencies": {
     "mobx": "^5.1.0",
     "mobx-react": "^5.2.6",
