@@ -1,0 +1,12 @@
+.works{
+    background-color: gold;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.btndel{
+    margin-left: 50px;
+    padding: 2px;
+    background-color: rgb(32, 155, 167);
+    border: 2px dashed rgb(32, 155, 167);
+}
